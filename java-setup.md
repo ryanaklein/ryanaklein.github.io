@@ -1,5 +1,3 @@
 # Setting up a java stack
-## Install Apache HTTP
-``` bash
-sudo yum install httpd
-```
+## Installation
+* https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-centos-6 - Steps for apache
